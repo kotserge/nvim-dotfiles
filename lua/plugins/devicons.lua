@@ -1,1 +1,1 @@
-require('devicons').setup()
+require("devicons").setup()
