@@ -1,0 +1,1 @@
+require('devicons').setup()
