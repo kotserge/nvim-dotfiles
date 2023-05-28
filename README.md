@@ -10,8 +10,13 @@ Depending on your setup, you might not want to install this repository directly 
 
 ### Prerequisites
 
+Modules:
 - [Neovim](https://neovim.io/)
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
+
+Fonts:
+- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+- [Feather Font](https://github.com/AT-UI/feather-font)
 
 ## Color Scheme, Font and general look and feel
 
