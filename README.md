@@ -27,4 +27,4 @@ Note, that some configurations are not included in this repository and might inf
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. Note, that the license only applies to my configuration. The plugins I use are licensed under their respective licenses.
+This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details. Note that this only extends to my code and other modules, fonts, etc. are licensed under their respective licenses and do not fall under this license. If you find any license violations, please contact me immediately, as this is not intended.
