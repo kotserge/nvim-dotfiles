@@ -20,9 +20,9 @@ Fonts:
 
 ## Color Scheme, Font and general look and feel
 
-The color scheme I use is a variation of some linux rice I found a while back and modified it to my liking. Sadly, I do not recall where I found it nor have any surviving links to it. If you know where it came from, please let me know so I can give proper credit, as I really enjoy this color scheme and been using it for a while now.
+The color scheme I use is a variation of `Base16 Classic Dark` and some linux rice I found a while back and modified it to my liking. Sadly, I do not recall where I found it nor have any surviving links to it. If you know where it came from, please let me know so I can give proper credit, as I really enjoy this color scheme and been using it for a while now.
 For the font I use [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono), which I set as the default font in my terminal emulator.
-Icons are used from [Feather Font](https://github.com/AT-UI/feather-font), which I also use anywhere on my system and reminds me of [Iconoir](https://iconoir.com/).
+Icons are used from [Feather Font](https://github.com/AT-UI/feather-font) and [Devicons](https://github.com/vorillaz/devicons), which I also use anywhere on my system and reminds me of [Iconoir](https://iconoir.com/).
 Note, that some configurations are not included in this repository and might influence the look and feel of your setup. Most of those can be found on my [dotfiles repository](https://github.com/confusedSerge).
 
 ## License
