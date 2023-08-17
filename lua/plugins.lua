@@ -9,14 +9,14 @@ return packer.startup({
 		-- bufferline [top portion]
 		use({
 			"akinsho/bufferline.nvim",
-			requires = "kyazdani42/nvim-web-devicons",
+			requires = "nvim-tree/nvim-web-devicons",
 			config = [[require('plugins.bufferline')]],
 		})
 
 		-- statusline [bottom portion]
 		use({
 			"hoob3rt/lualine.nvim",
-			requires = { "kyazdani42/nvim-web-devicons", "SmiteshP/nvim-gps" },
+			requires = { "nvim-tree/nvim-web-devicons", "SmiteshP/nvim-gps" },
 			config = [[require('plugins.lualine')]],
 		})
 
@@ -27,7 +27,7 @@ return packer.startup({
 
 		-- Dev Icons
 		use({
-			"kyazdani42/nvim-web-devicons",
+			"nvim-tree/nvim-web-devicons",
 			-- config = [[require('plugins.devicons')]]
 		})
 
@@ -37,9 +37,9 @@ return packer.startup({
 
 		-- File Explorer
 		use({
-			"kyazdani42/nvim-tree.lua",
+			"nvim-tree/nvim-tree.lua",
 			requires = {
-				"kyazdani42/nvim-web-devicons", -- optional, for file icon
+				"nvim-tree/nvim-web-devicons", -- optional, for file icon
 			},
 			config = [[require('plugins.nvim-tree')]],
 		})
