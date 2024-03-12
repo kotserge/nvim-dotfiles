@@ -1,5 +1,8 @@
 " Personal Keybindings
 
+" Sudo Hack for saving files, when I forget to open nvim with sudo
+cmap w!!y <esc>:lua require('utils').sudo_write()<cr>
+
 " Start: Useful IDE Style Plugins
 
 " File Explorer: NvimTree
@@ -63,9 +66,8 @@ endfunction
 " End: Useful Lang. (Syntax/Semantic) Plugins
 
 
-
 " Start: Other Plugins
 
-" Github Copilot
+" GitHub Copilot
 " inoremap <silent><script><expr> <C-J> copilot#Accept("\<CR>")
 " let g:copilot_no_tab_map = v:true

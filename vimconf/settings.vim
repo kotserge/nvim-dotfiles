@@ -1,4 +1,4 @@
-" Personal Setting Configuarations
+" Personal Setting Configurations
 
 " Set 24-Bit RGB Color for TUI
 set termguicolors
