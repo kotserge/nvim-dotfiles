@@ -64,10 +64,3 @@ function! s:show_documentation()
 endfunction
 
 " End: Useful Lang. (Syntax/Semantic) Plugins
-
-
-" Start: Other Plugins
-
-" GitHub Copilot
-" inoremap <silent><script><expr> <C-J> copilot#Accept("\<CR>")
-" let g:copilot_no_tab_map = v:true

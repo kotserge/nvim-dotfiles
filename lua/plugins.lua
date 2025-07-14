@@ -84,11 +84,6 @@ return packer.startup({
 			"wbthomason/packer.nvim",
 		})
 
-		-- Githubs CoPilot
-		use({
-			"github/copilot.vim",
-		})
-
 		-- SPEED(up loading time)
 		use({
 			"lewis6991/impatient.nvim",
